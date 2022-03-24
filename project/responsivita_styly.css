@@ -1,0 +1,35 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: azure;
+}
+h1{
+    text-align: center;
+}
+.uvod{
+    text-align: center;
+    width: 50%;
+    /*display: inline-block;*/
+    
+}
+.leva_strana{
+    float: left;
+    width: 25%;
+}
+.prava_strana{
+    float: right;
+    width: 25%;
+}
+.desk_img{
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+    padding: 10px, 10px;
+}
+.zdroje{
+    position: relative;
+    bottom: 0px;
+    width: max-content;
+    
+}
